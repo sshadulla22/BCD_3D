@@ -2,5 +2,5 @@ streamlit
 numpy
 plotly
 Pillow
-vedo
-vtk
+vedo==2023.4.1
+vtk==9.2.6
