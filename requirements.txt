@@ -1,6 +1,6 @@
 streamlit
 numpy
-vedo  # Recent version, more likely to work with Python 3.12
-vtk # Adjust if necessary
 plotly
 Pillow
+vedo
+vtk
