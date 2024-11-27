@@ -1,7 +1,5 @@
 streamlit
-pandas
-reportlab
+numpy
+vedo
 plotly
-fpdf
-python-docx
-sympy
+Pillow
