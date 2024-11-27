@@ -1,6 +1,8 @@
 streamlit
-numpy
+sqlite3  # Note: This is part of Python's standard library; no need to install it.
+pandas
+reportlab
 plotly
-Pillow
-vedo
-vtk
+fpdf
+python-docx  # For working with .docx files
+sympy
