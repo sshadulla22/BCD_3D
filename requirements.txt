@@ -1,8 +1,7 @@
 streamlit
-sqlite3  # Note: This is part of Python's standard library; no need to install it.
 pandas
 reportlab
 plotly
 fpdf
-python-docx  # For working with .docx files
+python-docx
 sympy
