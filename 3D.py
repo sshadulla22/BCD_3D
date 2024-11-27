@@ -1,4 +1,3 @@
-from tkinter import font
 from xml.dom.minidom import Document
 import streamlit as st
 import sqlite3
